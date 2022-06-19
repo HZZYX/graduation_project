@@ -1,0 +1,74 @@
+{
+  "background": "/images/colloation/10.jpg",
+  "title": "2022早春男士系列",
+  "btn": "即时探索",
+  "tide": [
+    {
+      "id": "1",
+      "imgUrl": "/images/colloation/10.jpg",
+      "text": "Tommy for Balenciaga"
+    },
+    {
+      "id": "2",
+      "imgUrl": "/images/colloation/11.jpg",
+      "text": "Cities城市系列"
+    },
+    {
+      "id": "3",
+      "imgUrl": "/images/colloation/12.jpg",
+      "text": "Le Cagole包袋"
+    },
+    {
+      "id": "4",
+      "imgUrl": "/images/colloation/13.jpg",
+      "text": "Kim for Balenciaga"
+    }
+  ],
+  "valentino": {
+    "imgUrl": "/images/colloation/15.webp",
+    "title": "NOW COLLOATION",
+    "text_1": "为他选购",
+    "text_2": "为她选购"
+  },
+  "introduce": {
+    "imgUrl": "/images/colloation/16.jpg",
+    "title": "ADOBE PHOTOSHOP 2021",
+    "text_1": "为他选购",
+    "text_2": "为她选购"
+  },
+  "cat": {
+    "cat_1": [
+      "/images/colloation/cat/1_01.jpg",
+      "/images/colloation/cat/2_01.jpg",
+      "/images/colloation/cat/3_01.jpg",
+      "/images/colloation/cat/4_01.jpg",
+      "/images/colloation/cat/5_01.jpg",
+      "/images/colloation/cat/6_01.jpg",
+      "/images/colloation/cat/7_01.jpg",
+      "/images/colloation/cat/8_01.jpg",
+      "/images/colloation/cat/9_01.jpg"
+    ],
+    "cat_2": [
+      "/images/colloation/cat/1_02.jpg",
+      "/images/colloation/cat/2_02.jpg",
+      "/images/colloation/cat/3_02.jpg",
+      "/images/colloation/cat/4_02.jpg",
+      "/images/colloation/cat/5_02.jpg",
+      "/images/colloation/cat/6_02.jpg",
+      "/images/colloation/cat/7_02.jpg",
+      "/images/colloation/cat/8_02.jpg",
+      "/images/colloation/cat/9_02.jpg"
+    ],
+    "cat_3": [
+      "/images/colloation/cat/1_03.jpg",
+      "/images/colloation/cat/2_03.jpg",
+      "/images/colloation/cat/3_03.jpg",
+      "/images/colloation/cat/4_03.jpg",
+      "/images/colloation/cat/5_03.jpg",
+      "/images/colloation/cat/6_03.jpg",
+      "/images/colloation/cat/7_03.jpg",
+      "/images/colloation/cat/8_03.jpg",
+      "/images/colloation/cat/9_03.jpg"
+    ]
+  }
+}

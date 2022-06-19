@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "ART OF LIVING AT THE",
+    "videoUrl": "/video/lady/lv_7.mp4",
+    "text": "CHÂTEAU DE VOISINS",
+    "btn": "More",
+    "active": "active"
+  },
+  {
+    "id": "2",
+    "title": "MEN'S SPRING-SUMMER",
+    "videoUrl": "/video/lady/lv_8.mp4",
+    "text": "2022 COLLECTION",
+    "btn": "More"
+  },
+  {
+    "id": "3",
+    "title": "LV VOLT COLLECTION",
+    "videoUrl": "/video/lady/lv_9.mp4",
+    "text": "SEE THE NEW CHAPTER",
+    "btn": "More"
+  }
+]

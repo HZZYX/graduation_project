@@ -1,0 +1,43 @@
+{
+  "details": [
+    "/images/details/1.webp",
+    "/images/details/2.webp",
+    "/images/details/3.webp",
+    "/images/details/4.webp",
+    "/images/details/5.webp",
+    "/images/details/6.webp",
+    "/images/details/7.webp",
+    "/images/details/8.webp",
+    "/images/details/9.webp"
+  ],
+  "heart": "/images/details/heart.svg",
+  "question": "/images/details/question.svg",
+  "copy": ["/images/details/copy_10.svg", "/images/details/copy_16.svg"],
+  "way": [
+    {
+      "id": "1",
+      "imgUrl": "/images/details/payment.svg",
+      "text": "支付方式"
+    },
+    {
+      "id": "2",
+      "imgUrl": "/images/details/give.svg",
+      "text": "配送服务"
+    },
+    {
+      "id": "3",
+      "imgUrl": "/images/details/change.svg",
+      "text": "退换货服务"
+    },
+    {
+      "id": "4",
+      "imgUrl": "/images/details/take.svg",
+      "text": "专卖店取货"
+    },
+    {
+      "id": "5",
+      "imgUrl": "/images/details/service_2.svg",
+      "text": "顾客服务"
+    }
+  ]
+}

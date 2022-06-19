@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "title": "ILLUSION MONOGRAM 皮革夹克",
+    "price": "¥84,500",
+    "imgUrl": "/images/man/1.webp"
+  },
+  {
+    "id": "2",
+    "title": "ILLUSION MONOGRAM 渔夫帽",
+    "price": "¥5,900",
+    "imgUrl": "/images/man/1.webp"
+  },
+  {
+    "id": "3",
+    "title": "LV TRAINER 运动鞋",
+    "price": "¥10,600",
+    "imgUrl": "/images/man/3.webp"
+  },
+  {
+    "id": "4",
+    "title": "开衩长裤",
+    "price": "¥9,500",
+    "imgUrl": "/images/man/4.webp"
+  },
+  {
+    "id": "5",
+    "title": "钩扣细节夹克",
+    "price": "¥28,800",
+    "imgUrl": "/images/man/5.webp"
+  },
+  {
+    "id": "6",
+    "videoUrl": "/video/man/6.mp4"
+  }
+]

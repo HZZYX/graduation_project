@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "TAMBOUR HORIZON LIGHT UP",
+    "videoUrl": "/video/man/lv_1.mp4",
+    "text": "智能腕表系列",
+    "btn": "More",
+    "active": "active"
+  },
+  {
+    "id": "2",
+    "title": "TOWARDS A DREAM",
+    "imgUrl": "/images/man/index_5.webp",
+    "text": "- - - - + + +",
+    "btn": "More"
+  },
+  {
+    "id": "3",
+    "title": "LV VOLT COLLECTION",
+    "videoUrl": "/video/man/lv_9.mp4",
+    "text": "SEE THE NEW CHAPTER",
+    "btn": "More"
+  }
+]

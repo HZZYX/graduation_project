@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "COUSSIN 小号手袋",
+    "price": "¥27,100",
+    "imgUrl": "/images/lady/1.webp"
+  },
+  {
+    "id": "2",
+    "title": "航海风格大衣",
+    "price": "¥47,000",
+    "imgUrl": "/images/lady/2.webp"
+  },
+  {
+    "id": "3",
+    "title": "BABY LOUISE 项链",
+    "price": "¥4,400",
+    "imgUrl": "/images/lady/3.webp"
+  },
+  {
+    "id": "4",
+    "title": "条纹口袋 T 恤",
+    "price": "¥8,000",
+    "imgUrl": "/images/lady/4.webp"
+  },
+  {
+    "id": "5",
+    "title": "DAUPHINE 迷你手袋衣",
+    "price": "¥24,100",
+    "imgUrl": "/images/lady/5.webp"
+  },
+  {
+    "id": "6",
+    "title": "衬衫式连衣裙",
+    "price": "¥26,700",
+    "imgUrl": "/images/lady/6.webp"
+  }
+]

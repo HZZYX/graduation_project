@@ -1,0 +1,98 @@
+{
+  "img_1": [
+    {
+      "id": "1",
+      "url": "url(./images/art/1.jpg)",
+      "text": "1"
+    },
+    {
+      "id": "2",
+      "url": "url(./images/art/2.jpg)",
+      "text": "2"
+    },
+    {
+      "id": "3",
+      "url": "url(./images/art/3.jpg)",
+      "text": "3"
+    },
+    {
+      "id": "4",
+      "url": "url(./images/art/4.jpg)",
+      "text": "4"
+    },
+    {
+      "id": "5",
+      "url": "url(./images/art/5.jpg)",
+      "text": "5"
+    },
+    {
+      "id": "6",
+      "url": "url(./images/art/6.jpg)",
+      "text": "6"
+    }
+  ],
+  "img_2": [
+    {
+      "id": "1",
+      "url": "url(./images/art/7.jpg)",
+      "text": "1"
+    },
+    {
+      "id": "2",
+      "url": "url(./images/art/8.jpg)",
+      "text": "2"
+    },
+    {
+      "id": "3",
+      "url": "url(./images/art/9.jpg)",
+      "text": "3"
+    },
+    {
+      "id": "4",
+      "url": "url(./images/art/10.webp)",
+      "text": "4"
+    },
+    {
+      "id": "5",
+      "url": "url(./images/art/11.jpg)",
+      "text": "5"
+    },
+    {
+      "id": "6",
+      "url": "url(./images/art/12.jpg)",
+      "text": "6"
+    }
+  ],
+  "img_3": [
+    {
+      "id": "1",
+      "url": "url(./images/art/13.jpg)",
+      "text": "1"
+    },
+    {
+      "id": "2",
+      "url": "url(./images/art/14.jpg)",
+      "text": "2"
+    },
+    {
+      "id": "3",
+      "url": "url(./images/art/15.webp)",
+      "text": "3"
+    },
+    {
+      "id": "4",
+      "url": "url(./images/art/16.webp)",
+      "text": "now colloation"
+    },
+    {
+      "id": "5",
+      "url": "url(./images/art/17.jpg)",
+      "text": "BEW Clothing"
+    },
+    {
+      "id": "6",
+      "url": "url(./images/art/18.jpg)",
+      "text": "BEW Music"
+    }
+  ]
+}

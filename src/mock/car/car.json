@@ -1,0 +1,50 @@
+{
+  "nav":[
+    "购物车",
+    "订单提交",
+    "支付"
+  ],
+  "car": [
+    {
+      "id": "1",
+      "img": "/images/car/1.png",
+      "name": "小号 Book Tote 手袋",
+      "text": "奶白色面料多色 Cupidon 图案刺绣",
+      "reduce": "/images/car/reduce.svg",
+      "add": "/images/car/add.svg",
+      "price": "￥2000",
+      "number":"1"
+    },
+    {
+      "id": "2",
+      "img": "/images/car/2.png",
+      "name": "B27 高帮运动鞋",
+      "text": "黑色光滑牛皮革搭配米色和黑色 Oblique 印花",
+      "reduce": "/images/car/reduce.svg",
+      "add": "/images/car/add.svg",
+      "price": "￥999",
+      "number":"1"
+    }
+  ],
+  "pay": [
+    "/images/car/alipay.png",
+    "/images/car/wechat.png",
+    "/images/car/unionpay.svg"
+  ],
+  "news": [
+    {
+      "id": "1",
+      "imgUrl": "/images/car/news.svg",
+      "title": "BEW Clothing 服装",
+      "text": "客户服务热线：400 628 16 16(周一至周日 10:00 - 22:00)",
+      "email": [{ "title": "电子邮件:", "text": "Morii-He@foxmail.com" }]
+    },
+    {
+      "id": "2",
+      "imgUrl": "/images/car/news.svg",
+      "title": "BEW Clothing ",
+      "text": "400 628 16 16(周一至周日 10:00 - 22:00)",
+      "email": [{ "title": "电子邮件:", "text": "2480539456@qq.com" }]
+    }
+  ]
+}

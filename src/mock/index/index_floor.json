@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title":"BEW Clothing之家",
+      "imgUrl": "/images/index/index_1.webp",
+      "text_1":"成都远洋太古里店开幕",
+      "text_2":"查看详情"
+    },
+    {
+      "id": "2",
+      "title":"我们的专卖店",
+      "imgUrl": "/images/index/index_2.webp",
+      "text_1":"寻找BEW Clothing专卖店，开启您的购物体验",
+      "text_2":"即刻查询"
+    },
+    {
+      "id": "3",
+      "title":"联系我们",
+      "imgUrl": "/images/index/index_3.webp",
+      "text_1":"我们的咨询顾问将很乐意为您效劳",
+      "text_2":"了解更多"
+    }
+  ]
+  
